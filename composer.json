@@ -1,5 +1,5 @@
 {
-    "name": "ecdo/backend",
+    "name": "epl/backend",
     "description": "Backend for Laravel 4",
     "keywords": ["laravel", "admin", "backend", "sentry", "cartalyst"],
     "license": "MIT",
