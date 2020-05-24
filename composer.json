@@ -1,6 +1,6 @@
 {
     "name": "epl/backend",
-    "version: "1.0.0",
+    "version": "1.0.0",
     "description": "Backend for Laravel 4",
     "keywords": ["laravel", "admin", "backend", "sentry", "cartalyst"],
     "license": "MIT",
